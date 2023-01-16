@@ -1,10 +1,10 @@
 
 
 
-![GeDi logo](https://github.com/salesforce/GeDi/blob/master/gedi_logo_small.png)
+![GeDi logo](./gedi_logo_small.png)
 --------------------------------------------------------------------------------
 
-Official implementation of [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367)
+Forked repository by Iwan Van and an unofficial implementation of [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367)
 
 Blogpost [here](https://blog.einstein.ai/gedi/)
 
